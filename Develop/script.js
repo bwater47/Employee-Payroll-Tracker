@@ -14,6 +14,14 @@ const collectEmployees = function() {
 
     userInput = confirm('Do you want to add another employee?')
   }
+
+  const myData = {
+    firstName: firstName,
+    lastName: lastName,
+    salary: salary,
+  }
+
+  Employees.push(myData)
   // TODO: Get user input to create and return an array of employee objects
 }
 
