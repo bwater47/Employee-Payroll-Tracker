@@ -10,7 +10,9 @@ const collectEmployees = function() {
   while (userInput !== false) {
     const firstName = prompt("Enter first name:")
     const lastName = prompt("Enter last name:")
-    const salary = prompt("Enter salary:")
+    let salary = prompt("Enter salary:")
+
+    salary = isNaN(salary) ? 0 : salary;
 
     userInput = confirm('Do you want to add another employee?')
 
