@@ -6,9 +6,11 @@ const collectEmployees = function() {
   const Employees = []
   let userInput = '';
   while (userInput !== 'exit') {
-    userInput = prompt('')
+    const firstnameInput = prompt("Enter first name:")
+    const lastnameInput = prompt("Enter last name:")
+    const salaryInput = prompt("Enter salary:")
+
   }
-  console.log();
   // TODO: Get user input to create and return an array of employee objects
 }
 
