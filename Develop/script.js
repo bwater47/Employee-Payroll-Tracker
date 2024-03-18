@@ -12,7 +12,7 @@ const collectEmployees = function() {
     const lastName = prompt("Enter last name:")
     let salary = prompt("Enter salary:")
 
-    salary = isNaN(salary) ? 0 : salary;
+    salary = isNaN(parseFloat(salary)) ? 0 : parseFloat(salary);
 
     userInput = confirm('Do you want to add another employee?')
 
