@@ -52,12 +52,14 @@ const getRandomEmployee = function (employeesArray) {
   let randomEmployee = employeesArray.sort(function () {
     return Math.random() - 0.5;
   });
-  
+
   for (let i = 0; i < employeesArray.length; i++) {
     console.log(
-      `Congratulations to ${randomEmployee[i]}, our random drawing winner!`
+      `Congratulations to ${randomEmployee[i].firstName}, our random drawing winner!`
     );
   }
+
+
   // TODO: Select and display a random employee
 };
 
