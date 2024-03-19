@@ -34,6 +34,11 @@ const collectEmployees = function() {
 const displayAverageSalary = function(employeesArray) {
   let totalSalary = 0;
 
+for (let i = 0; i < employeesArray.length; i++) {
+  console.log(employeesArray[i]);
+  totalSalary += parseFloat(employeesArray[i].salary);
+}
+
   const averageSalary = totalSalary / employeesArray.length;
 
 console.log(`The average employee salary between our ${employeesArray.length} employee(s) is $${averageSalary}`);
