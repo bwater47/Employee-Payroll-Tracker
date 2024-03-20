@@ -8,8 +8,11 @@ An employee payroll tracker for a company that would like to have a more efficie
 Shields.io
 
 ## Visuals
-Link: <a href="https://bwater47.github.io/Prime-Nex/">Landing Page</a>
-Screenshot: <img src="./images/screenshot1.png" alt="Landing Page"/>
+Link: <a href="https://bwater47.github.io/Week-3-Challenge/">Employee Payroll Tracker</a>
+
+Live: <iframe width="560" height="315" src="./images/Payroll.mp4" frameborder="0" allowfullscreen></iframe>
+
+Screenshot: <img src="./images/PayrollLog.png" alt="Payroll Console Log"/>
 
 ## Installation
 N/A
