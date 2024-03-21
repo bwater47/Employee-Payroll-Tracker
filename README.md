@@ -10,7 +10,7 @@ Shields.io
 ## Visuals
 Link: <a href="https://bwater47.github.io/Week-3-Challenge/">Employee Payroll Tracker</a>
 
-Live: <iframe width="560" height="315" src="./images/Payroll.mp4" frameborder="0" allowfullscreen></iframe>
+Live: 
 
 Screenshot: <img src="./images/PayrollLog.png" alt="Payroll Console Log"/>
 
