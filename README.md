@@ -1,5 +1,5 @@
 # Employee Payroll Tracker
-Improve the functionality of the code.
+Employee Payroll Tracking application.
 
 ## Description
 An employee payroll tracker for a company that would like to have a more efficient method of logging their payroll. You can also get an average salary in the console after logging the employees, and their salary.
@@ -8,7 +8,7 @@ An employee payroll tracker for a company that would like to have a more efficie
 Shields.io
 
 ## Visuals
-Link: <a href="https://bwater47.github.io/Week-3-Challenge/">Employee Payroll Tracker</a>
+Link: <a href="https://bwater47.github.io/Employee-Payroll-Tracker/">Employee Payroll Tracker</a>
 
 Screenshots: <img src="./images/PayrollLog.png" alt="Payroll Console Log"/> <img src="./images/PayrollUI.png" alt="Payroll Live Site"/>
 
